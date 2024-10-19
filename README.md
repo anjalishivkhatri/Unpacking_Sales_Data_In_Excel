@@ -1,4 +1,4 @@
-# Vrinda Store Analysis
+# Vrinda Store Analysis with Excel
 
 This project, developed using MS Excel, involves data cleaning, processing, and visualization techniques to analyze transactional data and generate an annual sales report for Vrinda Store.
 
